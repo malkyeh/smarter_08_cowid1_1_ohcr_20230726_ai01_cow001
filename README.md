@@ -1,0 +1,2 @@
+# smarter_08_cowid1_1_ohcr_20230726_ai01_cow001
+俯拍牛隻識別模型
